@@ -48,13 +48,17 @@
 
 <h3> Download & Installation </h3>
 
-Download the starter via github then run the following command:
+Download the starter using the following command (use your own project name):
+```
+npx degit https://github.com/aidanaden/solid-starter <name_of_project>
+```
 
+Install the packages:
 ```
 yarn install
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+And you're done!
 
 <h3>License</h3>
 
