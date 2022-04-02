@@ -22,10 +22,10 @@
   <li>tailwind/forms</li>
   <li>tailwind/typography</li>
   <li>tailwind/aspect-ratio</li>
-  <li>daisy-ui (https://daisyui.com/docs)</li>
-  <li>solid-slider (https://github.com/davedbase/solid-slider)</li>
-  <li>solid-app-router (https://github.com/solidjs/solid-app-router)</li>
-  <li>solid-markdown (https://github.com/andi23rosca/solid-markdown)</li>
+  <li><a href='https://daisyui.com/docs'>daisy-ui</a></li>
+  <li><a href='https://github.com/davedbase/solid-slider'>solid-slider</a></li>
+  <li><a href='https://github.com/solidjs/solid-app-router'>solid-app-router</a></li>
+  <li><a href='https://github.com/andi23rosca/solid-markdown'>solid-markdown</a></li>
 </ul>
 
 <h3> List of included components (WIP) </h3>
@@ -48,12 +48,10 @@
 
 <h3> Download & Installation </h3>
 
-Run the following command to create a new project with this Starter:
+Download the starter via github then run the following command:
 
 ```
-yarn create next-app [project-name] -e https://github.com/aidanaden/nextjs-tailwind-starter.git
-# or
-npx create-next-app [project-name] -e https://github.com/aidanaden/nextjs-tailwind-starter.git
+yarn install
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
