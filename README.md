@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/solidjs/solid/master/banner.png" /></p>
 
 <h1 align="center"> SolidJS Starter Kit </h1>
 
