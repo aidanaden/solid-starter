@@ -22,10 +22,13 @@
   <li>tailwind/forms</li>
   <li>tailwind/typography</li>
   <li>tailwind/aspect-ratio</li>
+  <li>tailwindcss/line-clamp<li>
   <li><a href='https://daisyui.com/docs'>daisy-ui</a></li>
   <li><a href='https://github.com/davedbase/solid-slider'>solid-slider</a></li>
   <li><a href='https://github.com/solidjs/solid-app-router'>solid-app-router</a></li>
   <li><a href='https://github.com/andi23rosca/solid-markdown'>solid-markdown</a></li>
+  <li>solid-heroicons</li>
+  <li>solid-icons</li>
 </ul>
 
 <h3> List of included components (WIP) </h3>
