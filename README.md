@@ -28,7 +28,8 @@
   <li><a href='https://github.com/solidjs/solid-app-router'>solid-app-router</a></li>
   <li><a href='https://github.com/andi23rosca/solid-markdown'>solid-markdown</a></li>
   <li>solid-heroicons</li>
-  <li>solid-icons</li>
+  <li><a href='https://github.com/x64Bits/solid-icons'>solid-icons</a></li>
+  <li><a href='https://www.npmjs.com/package/phosphor-solid'>phosphoricons-solid</a></li>
 </ul>
 
 <h3> List of included components (WIP) </h3>
