@@ -12,6 +12,7 @@ module.exports = {
     require("@tailwindcss/typography"),
     require("@tailwindcss/aspect-ratio"),
     require("daisyui"),
+    require('@tailwindcss/line-clamp'),
   ],
   // daisyUI config (optional)
   // for full config docs: https://daisyui.com/docs/config/
