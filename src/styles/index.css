@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  /* @font-face {
+    font-family: 'Moderat';
+    src: url('../../public/fonts/Moderat-Regular.woff') format('woff'),
+      url('../../public/fonts/Moderat-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+  } */
+  body {
+    /* @apply bg-woodsmoke-900 scrollbar-thin; */
+  }
+}
+
+@layer components {
+  /* .sidebarIcon {
+        @apply h-6 text-[#808080] cursor-pointer;
+    } */
+}

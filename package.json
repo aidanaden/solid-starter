@@ -30,6 +30,7 @@
     "@tailwindcss/line-clamp": "^0.3.1",
     "@tailwindcss/typography": "^0.5.2",
     "daisyui": "^2.13.5",
+    "phosphor-solid": "^1.1.5",
     "solid-app-router": "^0.3.2",
     "solid-heroicons": "^2.0.3",
     "solid-icons": "^0.3.3",
