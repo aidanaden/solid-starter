@@ -1,5 +1,9 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
     "target": "ESNext",
     "module": "ESNext",
     "moduleResolution": "node",
@@ -12,7 +16,6 @@
     "types": ["vite/client"],
     "noEmit": true,
     "isolatedModules": true,
-    "baseUrl": "src"
   },
   "include": [
     "src",
